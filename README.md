@@ -1,12 +1,12 @@
 # Desafio-Full-Stack
 
-## Técnologias usadas
+## Tecnologias usadas
 
 Back-end:
-Desenvolvido usando: C#, API Restful, DotNet, .NET Framework, Entity Framework.
+C#, API Restful, DotNet, .NET Framework, Entity Framework.
 
 Front-end:
-Desenvolvido usando: Vue.js, HTML, CSS e Javascript.
+Vue.js, HTML, CSS e Javascript.
 
 Banco de dados: PostgreSQL
 
