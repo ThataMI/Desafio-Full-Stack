@@ -16,47 +16,17 @@ Banco de dados: PostgreSQL
  - DotNet
  - PostgreSQL
 
-## Execução do projeto
-<details>
-<summary><strong> ⚠️ Configurações mínimas para execução do projeto</strong></summary><br />
+## Execução do projeto back-end
 
-Na sua máquina você deve ter:
+- Clonar o repositório 
+- Abrir a API na IDE desejada
+- Restaure as dependências do projeto 
+- Crie as tabelas do banco utilizando o comando Update-Database -Context DataContext
+- Rode o projeto no https://localhost:7237/
 
- - Sistema Operacional Distribuição Unix
- - Node versão 16
- - DotNet
- - SQLServer
- - Docker (**opcional, mas recomendado**)
- - Docker-compose versão >=1.29.2 (**opcional, mas recomendado**)
+## Execução do projeto front-end
 
-➡️ O `node` deve ter versão igual ou superior à `16.15.0 LTS`:
-  - Para instalar o nvm, [acesse esse link](https://github.com/nvm-sh/nvm#installing-and-updating);
-  - Rode os comandos abaixo para instalar a versão correta de `node` e usá-la:
-    - `nvm install 16 --lts`
-    - `nvm use 16`
-    - `nvm alias default 16`
-
-➡️ O `docker-compose` deve ter versão igual ou superior à`ˆ1.29.2`:
-  * Use esse [link de referência para realizar a instalação corretamente no ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-pt) ou a [documentação oficial](https://docs.docker.com/compose/install/);
-  * Acesse o [link da documentação oficial com passos para desinstalar](https://docs.docker.com/compose/install/uninstall/) caso necessário.
-
-</details>
-
-<details>
-<summary><strong> 👨‍💻 Informações Importantes </strong></summary><br />
-
-  1. Clone o repositório
-- Utilize o comando: `git clone git@github.com:heliorr/Desafio-Accenture.git`<br />
-2. Acesse a pasta do projeto
-- Acesse a pasta Desafio-Accenture com `cd Desafio-Accenture`;<br />
-3. Suba a aplicação 
- <summary><strong> 🐳 Com Container Docker-Compose </strong></summary><br />
-
-    - Execute o comando `docker-compose up --build` na pasta raíz do projeto;
-    - Aguarde que todos os containers estejam saudáveis;
-    - Acesse a pasta Back-end e execute os comandos `dotnet ef databaseupdate` e `dotnet run watch`;
-    - Acesse em seu browser o endereço: `http://localhost:8080`;
-
-  </details>
-  
-  Projeto Desenvolvido por [Hélio Souza](https://github.com/heliorr)
+- Abrir a App na IDE desejada
+- Abrir o terminal
+- rodar o comando npm install ou npm install --force e depois npm run serve
+- A aplicação ira rodar na http://localhost:8081/ 

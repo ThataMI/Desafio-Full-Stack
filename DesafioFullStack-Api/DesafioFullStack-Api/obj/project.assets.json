@@ -1602,11 +1602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\DesafioAccenture\\DesafioFullStack-Api\\DesafioFullStack-Api\\DesafioFullStack-Api.csproj",
+      "projectUniqueName": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\Desafio-Full-Stack\\DesafioFullStack-Api\\DesafioFullStack-Api\\DesafioFullStack-Api.csproj",
       "projectName": "DesafioFullStack-Api",
-      "projectPath": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\DesafioAccenture\\DesafioFullStack-Api\\DesafioFullStack-Api\\DesafioFullStack-Api.csproj",
+      "projectPath": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\Desafio-Full-Stack\\DesafioFullStack-Api\\DesafioFullStack-Api\\DesafioFullStack-Api.csproj",
       "packagesPath": "C:\\Users\\Thata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\DesafioAccenture\\DesafioFullStack-Api\\DesafioFullStack-Api\\obj\\",
+      "outputPath": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\Desafio-Full-Stack\\DesafioFullStack-Api\\DesafioFullStack-Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thata\\AppData\\Roaming\\NuGet\\NuGet.Config",

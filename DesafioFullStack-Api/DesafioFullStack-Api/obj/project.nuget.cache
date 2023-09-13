@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECtKvJbJzpzxyNpwVk0Oh20+KGSuM/0Zfq+LXCABdYwjV1BZXMDMw/ScXsWbgnOvmc7wmxq3eBX0QiVIMC03Hg==",
+  "dgSpecHash": "uk5CslyvoUGQRiYsqFaSviW0+0KwnPTZm3xYaMv7EYklT5VR3h7ypA7cvJgLRy1QNZwY8lYiDSZSHzOhsOin6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\DesafioAccenture\\DesafioFullStack-Api\\DesafioFullStack-Api\\DesafioFullStack-Api.csproj",
+  "projectFilePath": "C:\\Users\\Thata\\OneDrive\\Área de Trabalho\\Desafio-Full-Stack\\DesafioFullStack-Api\\DesafioFullStack-Api\\DesafioFullStack-Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thata\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Thata\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

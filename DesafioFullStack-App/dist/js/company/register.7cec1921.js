@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdesafiofullstack_app"]=self["webpackChunkdesafiofullstack_app"]||[]).push([[231],{9467:function(n,a,e){e.r(a),e.d(a,{default:function(){return o}});var s=e(3396);const t={class:"main-container"},r=(0,s._)("h1",null,"Register",-1),u=[r];function c(n,a){return(0,s.wg)(),(0,s.iD)("div",t,u)}var i=e(89);const f={},l=(0,i.Z)(f,[["render",c]]);var o=l}}]);
+//# sourceMappingURL=register.7cec1921.js.map
